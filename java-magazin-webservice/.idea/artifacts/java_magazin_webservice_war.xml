@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="java-magazin-webservice:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="java-magazin-webservice.war">
-      <element id="artifact" artifact-name="java-magazin-webservice:war exploded" />
-    </root>
-  </artifact>
-</component>
